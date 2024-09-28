@@ -4,7 +4,7 @@
 ### Hi, I'm Muhamadhu Afrih 👋
 
 **Front End Developer and Graphic Designer**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/arm-afrih) : [arm-afrih](https://linkedin.com/in/arm-afrih)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/arm-afrih) : [arm-afrih](https://linkedin.com/in/arm-afrih) <br>
 📧 Email: [armaemp.off@gmail.com](mailto:armaemp.off@gmail.com)  
 📞 Phone: +94-776165628 
 <!--
