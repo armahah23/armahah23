@@ -3,7 +3,7 @@
 
 ### Hi, I'm Muhamadhu Afrih 👋
 
-**Student and Graphic Designer**  
+**Front End Developer and Graphic Designer**  
 📧 Email: [armaemp.off@gmail.com](mailto:armaemp.off@gmail.com)  
 📞 Phone: +94-776165628 
 <!--
