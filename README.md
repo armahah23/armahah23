@@ -1,4 +1,3 @@
-## Hi there 👋
 ![Cover Image]([url-of-your-image](https://github.com/armahah23/armahah23/blob/main/Cover.png))
 
 <!--
