@@ -1,5 +1,11 @@
 ![Cover Image](https://github.com/armahah23/armahah23/blob/main/Cover.png)
 
+
+### Hi, I'm Muhamadhu Afrih 👋
+
+**Student and Graphic Designer**  
+📧 Email: [armaemp.off@gmail.com](mailto:armaemp.off@gmail.com)  
+📞 Phone: +94-776165628 
 <!--
 **armahah23/armahah23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
