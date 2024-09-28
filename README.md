@@ -1,4 +1,4 @@
-![Cover Image]([url-of-your-image](https://github.com/armahah23/armahah23/blob/main/Cover.png))
+![Cover Image](https://github.com/armahah23/armahah23/blob/main/Cover.png)
 
 <!--
 **armahah23/armahah23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
