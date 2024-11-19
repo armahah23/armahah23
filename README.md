@@ -1,12 +1,30 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <span style="color: #4CAF50;">✨ Hey 👋 What's up? ✨</span>
+</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F79D00&center=true&width=435&lines=Welcome+to+my+profile!;Glad+to+have+you+here!+😊;Let's+build+something+amazing!" alt="Typing animation" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 
 ###
 
-<h4 align="left">My name is Afrih and I'm a Full Stack Developer from Sri Lanka</h4>
+<h4 align="center" style="font-family: Arial, sans-serif; color: #4CAF50; border-bottom: 2px solid #FFD700; padding-bottom: 10px;">
+  🌟 Hi, I’m <strong>Afrih</strong>, a passionate <em>Full Stack Developer</em> from Sri Lanka! 🇱🇰
+</h4>
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #555;">
+  I specialize in building efficient and scalable web applications.  
+  As an IT undergraduate, I’m constantly exploring new technologies and striving to create meaningful digital experiences.  
+</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4CAF50; text-transform: uppercase; letter-spacing: 1.5px; font-size: 2.5rem; border-bottom: 3px solid #FFD700; padding-bottom: 10px;">
+  ✨ About Me ✨
+</h2>
+
 
 ###
 
@@ -24,7 +42,10 @@
 
 ###
 
-<h2 align="left">SKILLS I HAVE</h2>
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4CAF50; text-transform: uppercase; font-size: 2.5rem; letter-spacing: 2px; position: relative; background: linear-gradient(45deg, #FF6F00, #FFC107); -webkit-background-clip: text; color: transparent;">
+  <span style="position: absolute; left: 0; right: 0; top: 50%; transform: translateY(-50%); font-size: 3rem; color: #FFD700; animation: bounce 1s infinite;">⚡</span> SKILLS I HAVE
+</h2>
+
 
 ###
 
@@ -83,6 +104,9 @@
 </div>
 
 ###
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4CAF50; text-transform: uppercase; font-size: 2.5rem; letter-spacing: 2px; position: relative; background: linear-gradient(45deg, #FF6F00, #FFC107); -webkit-background-clip: text; color: transparent;">
+  <span style="position: absolute; left: 0; right: 0; top: 50%; transform: translateY(-50%); font-size: 3rem; color: #FFD700; animation: bounce 1s infinite;">⚡</span> Connect Me
+</h2>
 
 <div align="center">
  <a href="linkedin.com/arm-afrih"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  /> </a>
