@@ -30,13 +30,46 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://cdn-employer-wp.arc.dev/wp-content/uploads/2022/04/software-development-costs-1128x635.jpg"  />
+<div align="center">
+  <a href="https://example.com">
+    <img 
+      src="https://cdn-employer-wp.arc.dev/wp-content/uploads/2022/04/software-development-costs-1128x635.jpg" 
+      alt="Software Development Costs" 
+      width="70%" 
+      style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" 
+    />
+  </a>
+  <p><strong>💻 Discover Software Development Costs</strong></p>
+</div>
+
+
 
 ###
 
-<h4 align="left">🔭 Currently working on: Freelancer<br>🌱 Learning: React JS<br>👯 Open to collaborate on: Project Gems<br>🤝 Looking for help with: Auto Care<br>👨‍💻 Projects available on: LinkedIn<br>📝 Regular articles on: Medium<br>💬 Ask me about: React<br>📫 Reach me at: afriharm723.off@gmail.com<br>📄 View my experiences: Afrih CV<br>⚡ Fun fact: I think I’m funny!</h4>
+<h4>🚀 Currently Working On</h4>
+<p>Freelancer Projects</p>
 
-###
+<h4>🌱 Currently Learning</h4>
+<p>React.js</p>
+
+<h4>👯 Open to Collaborate On</h4>
+<p>Exciting Projects & Ideas</p>
+
+<h4>📝 Sharing Insights On</h4>
+<p><a href="https://medium.com" target="_blank">Medium</a></p>
+
+<h4>📫 Let's Connect</h4>
+<p><a href="mailto:afriharm723.off@gmail.com">Get tuch with me</a></p>
+
+<h4>📄 Explore My Experience</h4>
+<p><a href="#">My CV</a></p>
+
+<h4>💬 Ask Me About</h4>
+<p>React & Web Development</p>
+
+<h4>⚡ Fun Fact</h4>
+<p>I believe a good sense of humor makes coding more fun!</p>
+
 
 <h2 align="left"></h2>
 
