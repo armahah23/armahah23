@@ -1,77 +1,81 @@
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <span style="color: #4CAF50;">✨ Hey 👋 What's up? ✨</span>
+  <span style="color: #4CAF50;">✨ Hey 👋 Welcome to My GitHub! ✨</span>
 </h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F79D00&center=true&width=435&lines=Welcome+to+my+profile!;Glad+to+have+you+here!+😊;Let's+build+something+amazing!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F79D00&center=true&width=500&lines=Intern+at+Huawei+Technologies;Full+Stack+Developer+%7C+Cloud+Enthusiast;Always+Learning+%26+Building!" alt="Typing animation" />
 </p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-
-###
+---
 
 <h4 align="center" style="font-family: Arial, sans-serif; color: #4CAF50; border-bottom: 2px solid #FFD700; padding-bottom: 10px;">
-  🌟 Hi, I’m <strong>Afrih</strong>, a passionate <em>Full Stack Developer</em> from Sri Lanka! 🇱🇰
+  🌟 Hi, I’m <strong>Afrih</strong> – a passionate <em>Full Stack Developer & Cloud Solution Intern</em> from Sri Lanka 🇱🇰
 </h4>
+
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #555;">
-  I specialize in building efficient and scalable web applications.  
-  As an IT undergraduate, I’m constantly exploring new technologies and striving to create meaningful digital experiences.  
+  Currently working as an <strong>Intern – Cloud Solution Architecture</strong> at <strong>Huawei Technologies Lanka Co.</strong>  
+  I specialize in building scalable web applications with the <strong>MERN Stack</strong>, and I’m exploring <strong>Cloud Computing</strong> to design reliable, efficient, and future-ready solutions.  
+  Passionate about learning, collaborating, and solving real-world challenges with technology 🚀  
 </p>
 
-###
+---
 
 <h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4CAF50; text-transform: uppercase; letter-spacing: 1.5px; font-size: 2.5rem; border-bottom: 3px solid #FFD700; padding-bottom: 10px;">
   ✨ About Me ✨
 </h2>
 
-
-###
-
-<br clear="both">
-
 <div align="center">
-  <a href="https://example.com">
+  <a href="#">
     <img 
-      src="https://cdn-employer-wp.arc.dev/wp-content/uploads/2022/04/software-development-costs-1128x635.jpg" 
-      alt="Software Development Costs" 
+      src="https://cdn.employer-frontend.arc.dev/wp-content/uploads/2022/09/cloud-development.jpg" 
+      alt="Cloud & Development" 
       width="70%" 
       style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" 
     />
   </a>
-  <p><strong>💻 Discover Software Development Costs</strong></p>
+  <p><strong>☁️ Cloud & Full-Stack Development Enthusiast</strong></p>
 </div>
 
+---
 
+### 🚀 Currently Working On
+- Cloud Solution Architecture internship at Huawei  
+- Personal projects in **MERN stack**  
+- Exploring **5G/LTE concepts** & Cloud-native applications  
 
-###
+### 🌱 Currently Learning
+- Advanced **React.js & Next.js**  
+- **AWS Cloud Services** & Cloud-native tools  
+- **System Design** & scalable architectures  
 
-<h4>🚀 Currently Working On</h4>
-<p>Freelancer Projects</p>
+### 👯 Open to Collaborate On
+- Full stack & cloud-based projects  
+- Innovative web or mobile app ideas  
 
-<h4>🌱 Currently Learning</h4>
-<p>React.js</p>
+### 📝 Sharing Insights On
+- Tech learnings & experiences on [Medium](https://medium.com)  
 
-<h4>👯 Open to Collaborate On</h4>
-<p>Exciting Projects & Ideas</p>
+### 📫 Let's Connect
+- 📧 [Email Me](mailto:afriharm723.off@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/afrih-arm)  
 
-<h4>📝 Sharing Insights On</h4>
-<p><a href="https://medium.com" target="_blank">Medium</a></p>
+### 📄 Explore My Experience
+- [My CV](#)  
 
-<h4>📫 Let's Connect</h4>
-<p><a href="mailto:afriharm723.off@gmail.com">Get tuch with me</a></p>
+### 💬 Ask Me About
+- Cloud Computing & Huawei CLoud, AWS
+- MERN Stack Development  
+- React, Node.js, and Web Development  
 
-<h4>📄 Explore My Experience</h4>
-<p><a href="#">My CV</a></p>
+### ⚡ Fun Fact
+- I’m also a **volleyball player 🏐** and believe teamwork in sports is just like teamwork in tech – both need strategy, passion, and persistence!  
 
-<h4>💬 Ask Me About</h4>
-<p>React & Web Development</p>
+---
 
-<h4>⚡ Fun Fact</h4>
-<p>I believe a good sense of humor makes coding more fun!</p>
-
-
-<h2 align="left"></h2>
 
 ###
 
