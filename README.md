@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <span style="color: #4CAF50;">✨ Hey 👋 Welcome to My GitHub! ✨</span>
+  <span style="color: #4CAF50;">✨ Hey 👋 Welcome to ARMAHs space! ✨</span>
 </h1>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ---
 
 <h4 align="center" style="font-family: Arial, sans-serif; color: #4CAF50; border-bottom: 2px solid #FFD700; padding-bottom: 10px;">
-  🌟 Hi, I’m <strong>Afrih</strong> – a passionate <em>Full Stack Developer & Cloud Solution Intern</em> from Sri Lanka 🇱🇰
+  🌟 Hi, I’m <strong>Afrih</strong> – a passionate <em>Cloud and DevOps Enthusist & Junior Cloud Engineer</em> from Sri Lanka 🇱🇰
 </h4>
 
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #555;">
