@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F79D00&center=true&width=500&lines=Intern+at+Huawei+Technologies;Full+Stack+Developer+%7C+Cloud+Enthusiast;Always+Learning+%26+Building!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F79D00&center=true&width=500&lines=Cloud+Solution+Engineer+at+Huawei+Technologies;Full+Stack+Developer+%7C+Cloud+Enthusiast;Always+Learning+%26+Building!" alt="Typing animation" />
 </p>
 
 <p align="center">
